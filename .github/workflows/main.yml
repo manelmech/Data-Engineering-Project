@@ -44,6 +44,6 @@ jobs:
         with:
           databricks-host: ${{ env.DATABRICKS_HOST }}
           databricks-token: ${{ env.DATABRICKS_TOKEN }}
-          local-path: /home/runner/work/DataAnalytics/DataAnalytics/
+          local-path: /home/runner/work/Data-Engineering-Project/Data-Engineering-Project/
           remote-path: /Workspace/Users/manel.mechouar@gmail.com
 
